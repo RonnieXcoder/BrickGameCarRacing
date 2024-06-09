@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BrickGameCarRacing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BrickGameCarRacing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
