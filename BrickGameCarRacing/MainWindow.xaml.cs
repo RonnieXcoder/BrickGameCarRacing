@@ -23,14 +23,13 @@ using Windows.Media.Playback;
 using Windows.System;
 using Windows.UI.StartScreen;
 
-// To learn more about WinUI, the WinUI project structure,
-// and more about our project templates, see: http://aka.ms/winui-project-info.
+// If you enjoy this project, you can support it by making a donation!
+// Donation link: https://buymeacoffee.com/_ronniexcoder
+// You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder
 
 namespace BrickGameCarRacing
 {
-    /// <summary>
-    /// An empty window that can be used on its own or navigated to within a Frame.
-    /// </summary>
+   
     public sealed partial class MainWindow : Window
     {
         private const int TileSize = 40;
@@ -522,6 +521,9 @@ namespace BrickGameCarRacing
             }
         }
 
+        // If you enjoy this project, you can support it by making a donation!
+        // Donation link: https://buymeacoffee.com/_ronniexcoder
+        // You can also visit my YouTube channel for more content: https://www.youtube.com/@ronniexcoder
     
    }
 }
